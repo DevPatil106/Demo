@@ -1,3 +1,3 @@
 # Demo
-#Author Dev Patil
+#Author Dev Patil<br>
 This is my first git repository
